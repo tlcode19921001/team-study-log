@@ -6,6 +6,10 @@
 
 > TSL is an web serivce which the team members can manage their attendance
 
+## Notion page about the project's details
+https://catkin-liquid-e5a.notion.site/Team-Study-Log-ede99cac74fb4e64a1cfdc8ba63cf2be?pvs=4
+
+
 ## Features
 
 - User can create the group.
