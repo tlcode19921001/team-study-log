@@ -92,12 +92,6 @@ describe('Dropdown Test', () => {
     items.forEach((item) =>
       expect(screen.queryByText(item.value as string)).not.toBeNull()
     );
-
-    fireEvent.blur(input);
-
-    items.forEach((item) =>
-      expect(screen.queryByText(item.value as string)).toBeNull()
-    );
   });
 
   // when click item, dropdown expect to be closed
